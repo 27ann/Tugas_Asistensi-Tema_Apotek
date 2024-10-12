@@ -1,13 +1,11 @@
-# Tugas_Asistensi-Tema_Apotek
-# PBO-G
+**Tugas Asistensi**
+**PBO-G**
 
-```
-Kelompok 9 anggota :
+`Kelompok 9 anggota :`
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
 | Rafaela Shyra Ashma' Ramadhani | 5025231217 | Pemrograman Berorientasi Objek (G) |
 | Triana Velia Hutabalian | 5025231190 | Pemrograman Berorientasi Objek (G) |
-```
 
 **Tema : Apotek**
 
