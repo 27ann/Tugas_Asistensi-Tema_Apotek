@@ -11,13 +11,14 @@ Kelompok 9 anggota :
 
 ## Penjelasan Kode
 1. Interface `Storable`
+
    Mendefinisikan tiga metode untuk menambah, menghapus, dan menampilkan item dalam inventaris apotek. Interface ini mengatur kontrak bahwa setiap class yang mengimplementasikannya harus menyediakan implementasi dari ketiga metode tersebut.
-2. Class `Inventory`
+3. Class `Inventory`
    - Menggunakan Map<String, Integer> untuk menyimpan item dengan key sebagai nama item dan value sebagai jumlah item.
    - Metode tambahItem akan menambahkan item ke map. Jika item sudah ada, jumlah item ditambahkan, dan jika belum ada, item baru akan dimasukkan ke dalam map.
    - Metode hapusItem akan menghapus item dari map. Jika item tidak ditemukan, pesan akan ditampilkan.
    - Metode tampilkanItem menampilkan semua item yang ada di inventaris beserta jumlahnya, serta total item di apotek.
-3. Class `Main`
+4. Class `Main`
    - Memiliki menu interaktif yang menggunakan Scanner untuk mendapatkan input dari pengguna.
    - Program berulang hingga pengguna memilih opsi untuk keluar.
 
